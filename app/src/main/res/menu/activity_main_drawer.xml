@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/cloudt"
+            android:icon="@drawable/ic_cloud"
+            android:title="Cloud Torrent" />
+
+        <item
+            android:id="@+id/cloudtweb"
+            android:icon="@drawable/ic_cloud"
+            android:title="Cloud Torrent Pc" />
+        <item
+            android:id="@+id/cloudp"
+            android:icon="@drawable/ic_cloud"
+            android:title="Cloud Peers App" />
+
+        <item
+            android:id="@+id/whatsapp"
+            android:icon="@drawable/ic_whatsapp"
+            android:title="Join Whatsapp Group" />
+        <item
+            android:id="@+id/cloud"
+            android:icon="@drawable/ic_premium"
+            android:title="24x7 Cloud Torrent" />
+        <item
+            android:id="@+id/rate_this_app"
+            android:icon="@drawable/ic_rate"
+            android:title="Rate This App" />
+    </group>
+
+    <item android:title="Tools">
+        <menu>
+
+            <item
+                android:id="@+id/speedtest"
+                android:icon="@drawable/ic_speedtest"
+                android:title="Speed Test" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>

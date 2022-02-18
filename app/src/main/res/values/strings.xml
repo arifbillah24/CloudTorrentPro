@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Cloud Torrent Pro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cloud Torrent Pro</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="close">Close App</string>
+	<string name="cloudtorrent">https://play.google.com/store/apps/details?id=com.cloud.cloud.torrent</string>
+    <string name="whatsapp">https://chat.whatsapp.com/4APzQ1b3Ldz2INtvMwWEIu</string>
+    <string name="cloud24x7">https://24x7files.com/account_home.html</string>
+    <string name="cloudpeers">https://play.google.com/store/apps/details?id=com.cloud.peers</string>
+    <string name="speedtest">http://speed.24x7files.com</string>
+    <string name="rate_this">https://play.google.com/store/apps/details?id=com.cloud.torrent</string>
+    <string name="share">Hey, Download This App! On Google Playstore Following The Link https://play.google.com/store/apps/details?id=com.cloud.torrent</string>
+
+    <string name="hint_email_user">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="hint_country">Country Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Now.</string>
+    <string name="activatelink">Get Activate Your Account Now.</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="btn_logout">Logout</string>
+    <string name="name">Full Name</string>
+
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="download">Download</string>
+    <string name="permission_not_enabled">Please enable the Write External Storage Permission</string>
+    <string name="delete_files">Delete Downloads test files from the file system and try again.</string>
+    <string name="delete_title">Are you sure you want to delete %1$s?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="view">VIEW</string>
+    <string name="wifiOnly">WiFi Only</string>
+    <string name="retry">RETRY</string>
+    <string name="start">Start</string>
+    <string name="complete_over">%1$d/%2$d</string>
+    <string name="fetch_done">Fetching done.</string>
+    <string name="reset">RESET</string>
+    <string name="percent_progress">%1$d%%</string>
+    <string name="downloading">downloading…</string>
+    <string name="queued">QUEUED</string>
+    <string name="added">ADDED</string>
+    <string name="status_unknown">Status Unknown</string>
+    <string name="delete_all_files">Delete Downloaded Files</string>
+    <string name="downloaded_files_deleted">Downloads Files Deleted</string>
+    <string name="enqueue_error">Could not enqueue this request. Check logcat.</string>
+    <string name="download_eta_sec">%1$ds left</string>
+    <string name="download_eta_min">%1$dm %2$ds left</string>
+    <string name="download_eta_hrs">%1$dh %2$dm %3$ds left</string>
+    <string name="download_speed_bytes">%1$d B/s</string>
+    <string name="download_speed_kb">%1$s KB/s</string>
+    <string name="download_speed_mb">%1$s MB/s</string>
+
+</resources>
